@@ -1,1 +1,1 @@
-# note of self learning
+# Fundamentals IT notes
