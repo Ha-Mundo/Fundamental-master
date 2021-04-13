@@ -1,1 +1,1 @@
-# IT Fundamentals notes
+# IT fundamentals notes
